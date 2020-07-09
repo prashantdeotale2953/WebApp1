@@ -22,7 +22,6 @@ namespace WebApp1.Controllers
         {
             string str = "Hello Prashant Deotale";
             string st = "Hello Prashnt Deorao Deotale";
-            string prt = "Hi ,can we workk hard to ensure  the the date of release";
             return View();
         }
 
