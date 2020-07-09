@@ -20,6 +20,7 @@ namespace WebApp1.Controllers
 
         public IActionResult Index()
         {
+            string str = "Hello Prashant Deotale";
             return View();
         }
 
