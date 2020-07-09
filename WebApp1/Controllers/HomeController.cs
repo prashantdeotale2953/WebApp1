@@ -23,6 +23,7 @@ namespace WebApp1.Controllers
             string str = "Hello Prashant Deotale";
             string st = "Hello Prashnt Deorao Deotale";
             string upper = "Uppercase to lowercase";
+            string lower = "Lowercase to Uppercase";
             return View();
         }
 
